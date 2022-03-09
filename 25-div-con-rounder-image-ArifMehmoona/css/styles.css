@@ -1,0 +1,25 @@
+body {
+  /* background-color: #004466;  */
+  background-color: #001f2e;
+ 
+}
+
+
+.wrapper {
+              /* centra il div (wrapper) */
+              background-color: #00334d;
+}
+
+.text{
+  font-size:  55px;
+  color: rgb(112, 51, 138);
+}
+
+#immagine {
+border-radius:60%;
+width: 15%;
+
+margin: 0%;
+border : 70px
+}
+
